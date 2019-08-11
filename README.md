@@ -3,6 +3,8 @@
 Web version built with React and works with the server built with Node.js and mobile version built with React Native from this project.
 
 ## **Links**
+[Server](https://github.com/enzorossetto/tindev-server)
+
 [Mobile Version](https://github.com/enzorossetto/tindev-mobile)
 
 ***
