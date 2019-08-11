@@ -1,3 +1,14 @@
+# Tindev web
+
+Web version built with React and works with the server built with Node.js and mobile version built with React Native from this project.
+
+## **Links**
+[Mobile Version](https://github.com/enzorossetto/tindev-mobile)
+
+***
+
+## Other info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
