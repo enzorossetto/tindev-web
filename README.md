@@ -7,6 +7,10 @@ Web version built with React and works with the server built with Node.js and mo
 
 [Mobile Version](https://github.com/enzorossetto/tindev-mobile)
 
+## **Instruction**
+
+Use your **GitHub username** to login.
+
 ***
 
 ## Other info
